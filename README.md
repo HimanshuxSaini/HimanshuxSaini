@@ -10,13 +10,9 @@
 ![](https://streak-stats.demolab.com/?user=HimanshuxSaini&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=HimanshuxSaini&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🎯 Achievements
-<!-- icons here -->
-
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=HimanshuxSaini&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 ## 🎯 Achievements
-
 <p align="center">
   <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="90px"/>
   <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="90px"/>
