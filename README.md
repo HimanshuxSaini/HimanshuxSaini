@@ -15,6 +15,13 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=HimanshuxSaini&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+## 🎯 Achievements
+
+<p align="center">
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="90px"/>
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="90px"/>
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="90px"/>
+</p>
 
 
 ### ✍️ Random Dev Quote
