@@ -19,6 +19,8 @@
   <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="90px"/>
 </p>
 
+## 🚀 Live Project
+[![Live Demo](https://img.shields.io/badge/Live-Demo-green?style=for-the-badge&logo=netlify&logoColor=white)](https://synapse-ai-vanguard.netlify.app/)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
