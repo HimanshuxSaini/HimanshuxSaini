@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on: Full-stack web applications  <br>👯 I’m looking to collaborate on: MERN stack and open-source projects  <br>🤝 I’m looking for help with: Advanced backend architecture & performance optimization  <br>🌱 I’m currently learning: Scalable system design & cloud integration  <br>💬 Ask me about: MongoDB, Express.js, React.js, Node.js  <br>⚡ Fun fact: I enjoy building things that people actually use!
+🔭 I’m currently working on: Full-stack web applications  <br>👯 I’m looking to collaborate on: MERN stack and open-source projects  <br>🤝 I’m looking for help with: Advanced backend architecture & performance optimization  <br>🌱 I’m currently learning: Scalable system design & cloud integration  <br>💬 Ask me about: MongoDB, Express.js, React.js, Node.js  <br>⚡ Fun fact: I enjoy building things that people actually use!!
 
 
 ## 🌐 Socials:
