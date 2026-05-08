@@ -113,7 +113,7 @@ src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=H
 />
 
 </p>
-```
+
 
 # 🏆 Achievements & Trophies
 
@@ -201,5 +201,4 @@ src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:00C2FF
 />
 
 </p>
-```
 
