@@ -86,10 +86,8 @@
 <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,supabase" />
 </p>
 
-### ☁️ DevOps, Deployment & Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,vercel,netlify,render,vscode,postman" />
+### ☁️ DevOps, Deployment & Tools 
+<p> <img src="https://skillicons.dev/icons?i=git,github,docker,vercel,vscode,postman" /> </p> <p> <img src="https://img.shields.io/badge/Netlify-000000?style=for-the-badge&logo=netlify&logoColor=00C7B7"/> <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white"/> 
 </p>
 
 ---
@@ -100,7 +98,7 @@
 
 <img 
 height="180em"
-src="https://github-readme-stats.vercel.app/api?username=HimanshuxSaini&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"
+src="https://github-readme-stats-sigma-five.vercel.app/api?username=HimanshuxSaini&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"
 />
 
 <img 
@@ -114,12 +112,11 @@ src="https://streak-stats.demolab.com?user=HimanshuxSaini&theme=tokyonight&hide_
 
 <img 
 height="180em"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=HimanshuxSaini&layout=compact&theme=tokyonight&hide_border=true"
+src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=HimanshuxSaini&layout=compact&theme=tokyonight&hide_border=true"
 />
 
 </p>
-
----
+```
 
 # 🏆 Achievements & Trophies
 
