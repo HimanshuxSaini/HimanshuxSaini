@@ -1,32 +1,38 @@
-
 <h1 align="center">Hi 👋, I'm Himanshu Saini</h1>
 
 <h3 align="center">
-🚀 Full Stack Developer | MERN Stack Engineer | Open Source Contributor
+🚀 Full Stack Engineer • MERN Stack Developer • Open Source Contributor • Problem Solver
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=Full+Stack+Web+Developer;MERN+Stack+Engineer;Building+Scalable+Applications;Open+Source+Contributor;Always+Learning+New+Technologies;Passionate+Software+Engineer" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=30&pause=1000&color=00C2FF&center=true&vCenter=true&width=1000&lines=Full+Stack+Engineer;Building+Scalable+Web+Applications;MERN+Stack+Developer;Open+Source+Contributor;Passionate+Software+Engineer;Always+Learning+New+Technologies;Crafting+Modern+Digital+Experiences" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=HimanshuxSaini&label=Profile+Views&color=0e75b6&style=for-the-badge" />
+  <a href="https://github.com/HimanshuxSaini">
+    <img src="https://img.shields.io/github/followers/HimanshuxSaini?label=Followers&style=for-the-badge&color=blue" />
+  </a>
+
+  <img src="https://komarev.com/ghpvc/?username=HimanshuxSaini&label=Profile+Views&style=for-the-badge&color=brightgreen" />
+
+  <a href="https://github.com/HimanshuxSaini?tab=repositories">
+    <img src="https://img.shields.io/badge/Projects-View-blueviolet?style=for-the-badge" />
+  </a>
 </p>
 
 ---
 
+<img align="right" alt="Coding" width="360" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+
 # 💫 About Me
 
-<img align="right" alt="coding" width="340" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+💡 Passionate Full Stack Engineer focused on building scalable, performant, and modern web applications with clean architecture and impactful user experiences.
 
-💻 Passionate Full Stack Developer focused on building scalable, high-performance, and user-friendly web applications.
-
-- 🔭 Currently working on **Modern Full Stack Applications**
-- 🌱 Learning **System Design, Cloud Computing & DevOps**
-- 👯 Looking to collaborate on **Open Source & MERN Projects**
-- 💬 Ask me about **React.js, Node.js, Express.js, MongoDB**
-- ⚡ Fun Fact: **I enjoy turning ideas into real-world products**
-- 🎯 Goal: **To become an exceptional Software Engineer**
+🔭 Currently working on **Full Stack & AI-powered Applications**  
+🌱 Exploring **Cloud Computing, DevOps & Scalable System Design**  
+⚡ Strong interest in **Performance Optimization & Backend Engineering**  
+🤝 Open to collaborating on **Innovative Open Source Projects**  
+🎯 Goal: **To become a world-class Software Engineer**
 
 ---
 
@@ -34,16 +40,16 @@
 
 <p align="left">
 
+<a href="mailto:himanshusaini7988@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
 <a href="https://www.linkedin.com/in/himanshusaini7988/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://github.com/HimanshuxSaini" target="_blank">
 <img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="mailto:himanshusaini7988@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://portfolio-coming-soon.vercel.app/" target="_blank">
@@ -54,36 +60,36 @@
 
 ---
 
-# 🛠️ Tech Stack
+# ⚡ Tech Arsenal
 
-## 👨‍💻 Languages
+### 👨‍💻 Programming Languages
 
 <p>
 <img src="https://skillicons.dev/icons?i=js,python,c,cpp" />
 </p>
 
-## 🎨 Frontend Development
+### 🎨 Frontend Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,react,redux,tailwind" />
+<img src="https://skillicons.dev/icons?i=html,css,react,redux,tailwind,nextjs" />
 </p>
 
-## ⚙️ Backend Development
+### ⚙️ Backend Development
 
 <p>
 <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" />
 </p>
 
-## 🗄️ Databases
+### 🗄️ Databases & Cloud
 
 <p>
 <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,supabase" />
 </p>
 
-## ☁️ Deployment & Tools
+### ☁️ DevOps, Deployment & Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vercel,netlify,render,vscode" />
+<img src="https://skillicons.dev/icons?i=git,github,docker,vercel,netlify,render,vscode,postman" />
 </p>
 
 ---
@@ -93,12 +99,12 @@
 <p align="center">
 
 <img 
-height="180em" 
+height="180em"
 src="https://github-readme-stats.vercel.app/api?username=HimanshuxSaini&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"
 />
 
 <img 
-height="180em" 
+height="180em"
 src="https://streak-stats.demolab.com?user=HimanshuxSaini&theme=tokyonight&hide_border=true"
 />
 
@@ -115,19 +121,19 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=HimanshuxSai
 
 ---
 
-# 🏆 GitHub Achievements & Trophies
+# 🏆 Achievements & Trophies
 
 <p align="center">
 
 <img 
-src="https://github-profile-trophy.vercel.app/?username=HimanshuxSaini&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1"
+src="https://github-profile-trophy.vercel.app/?username=HimanshuxSaini&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1"
 />
 
 </p>
 
 ---
 
-# 📈 Contribution Graph
+# 📈 Contribution Activity
 
 <p align="center">
 
@@ -143,7 +149,7 @@ src="https://github-readme-activity-graph.vercel.app/graph?username=HimanshuxSai
 
 ## 🌟 Synapse AI
 
-AI-powered smart platform focused on modern technologies, scalable architecture, and intelligent solutions.
+AI-powered smart platform focused on scalable architecture, modern web technologies, and intelligent solutions.
 
 <p align="left">
 
@@ -157,7 +163,19 @@ AI-powered smart platform focused on modern technologies, scalable architecture,
 
 ---
 
-# ✨ Developer Quote
+# ✨ Developer Philosophy
+
+<p align="center">
+
+<i>
+"Great software is built through consistency, problem-solving, and continuous learning."
+</i>
+
+</p>
+
+---
+
+# ✨ Random Dev Quote
 
 <p align="center">
 
@@ -182,14 +200,10 @@ alt="snake animation"
 
 ---
 
-<h3 align="center">
-⭐ Building scalable applications with clean code & modern technologies ⭐
-</h3>
-
 <p align="center">
 
 <img 
-src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:8A2BE2&height=140&section=footer"
+src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:8A2BE2&height=180&section=footer"
 />
 
 </p>
