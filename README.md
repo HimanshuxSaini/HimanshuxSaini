@@ -120,7 +120,7 @@ src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=H
 <p align="center">
 
 <img 
-src="https://github-profile-trophy.vercel.app/?username=HimanshuxSaini&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1"
+src="https://github-profile-trophy.vercel.app/?username=HimanshuxSaini&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1&cache_seconds=1800"
 />
 
 </p>
