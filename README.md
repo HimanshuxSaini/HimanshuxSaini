@@ -52,9 +52,6 @@
 <img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://portfolio-coming-soon.vercel.app/" target="_blank">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
 
 </p>
 
@@ -200,7 +197,10 @@ alt="snake animation"
 <p align="center">
 
 <img 
-src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:8A2BE2&height=180&section=footer"
+width="100%"
+src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:00C2FF,50:8A2BE2,100:FF00FF&section=footer&text=Thanks%20for%20Visiting!&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=70"
 />
 
 </p>
+```
+
