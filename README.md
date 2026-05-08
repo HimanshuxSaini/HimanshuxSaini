@@ -1,4 +1,4 @@
-```md id="4gqk7v"
+
 <h1 align="center">Hi 👋, I'm Himanshu Saini</h1>
 
 <h3 align="center">
@@ -202,4 +202,3 @@ AI-powered platform focused on smart solutions and modern web technologies.
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:8A2BE2&height=130&section=footer"/>
 
 </p>
-```
