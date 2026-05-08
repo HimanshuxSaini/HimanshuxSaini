@@ -192,7 +192,6 @@ alt="snake animation"
 
 </p>
 
----
 
 <p align="center">
 
