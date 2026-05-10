@@ -12,7 +12,6 @@
   <a href="https://github.com/HimanshuxSaini">
     <img src="https://img.shields.io/github/followers/HimanshuxSaini?label=Followers&style=for-the-badge&color=blue" />
   </a>
-
   <img src="https://komarev.com/ghpvc/?username=HimanshuxSaini&label=Profile+Views&style=for-the-badge&color=brightgreen" />
 
   <a href="https://github.com/HimanshuxSaini?tab=repositories">
