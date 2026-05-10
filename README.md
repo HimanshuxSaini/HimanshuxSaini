@@ -117,8 +117,8 @@ src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=H
 
 
 
-# 🏆 GitHub Achievements
 
+# 🏆 GitHub trophy
 <p align="center">
 
 <img
@@ -127,25 +127,17 @@ src="https://github-profile-trophy.vercel.app/?username=HimanshuxSaini&theme=tok
 
 </p>
 
-<p align="center">
+# 🏆 GitHub Achievements
 
-<img 
-src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" 
-width="90"
-/>
+<p align="center" style="display:flex; justify-content:center; gap:15px;">
 
-<img 
-src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" 
-width="90"
-/>
+<img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="90"/>
 
-<img 
-src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" 
-width="90"
-/>
+<img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="90"/>
+
+<img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="90"/>
 
 </p>
-
 # 📈 Contribution Activity
 
 <p align="center">
