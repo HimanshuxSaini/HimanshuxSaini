@@ -125,22 +125,34 @@ src="https://github-profile-trophy.vercel.app/?username=HimanshuxSaini&theme=tok
 
 </p>
 
+# 🏆 GitHub Achievements
+
 <p align="center">
 
-<img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="85"/>
-
-<img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="85"/>
-
-<img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="85"/>
-
-<img src="https://github.githubassets.com/images/modules/profile/achievements/starstruck-default.png" width="85"/>
-
-<img src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png" width="85"/>
-
-<img src="https://github.githubassets.com/images/modules/profile/achievements/galaxy-brain-default.png" width="85"/>
+<img
+src="https://github-profile-trophy.vercel.app/?username=HimanshuxSaini&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1&cache_seconds=300"
+/>
 
 </p>
---- 
+
+<p align="center">
+
+<img 
+src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" 
+width="90"
+/>
+
+<img 
+src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" 
+width="90"
+/>
+
+<img 
+src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" 
+width="90"
+/>
+
+</p>
 
 # 📈 Contribution Activity
 
