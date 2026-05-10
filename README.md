@@ -115,17 +115,32 @@ src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=H
 </p>
 
 
-# 🏆 Achievements & Trophies
+# 🏆 GitHub Achievements
 
 <p align="center">
 
-<img 
-src="https://github-profile-trophy.vercel.app/?username=HimanshuxSaini&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1&cache_seconds=1800"
+<img
+src="https://github-profile-trophy.vercel.app/?username=HimanshuxSaini&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=2&column=4&cache_seconds=300"
 />
 
 </p>
 
----
+<p align="center">
+
+<img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="85"/>
+
+<img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="85"/>
+
+<img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="85"/>
+
+<img src="https://github.githubassets.com/images/modules/profile/achievements/starstruck-default.png" width="85"/>
+
+<img src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png" width="85"/>
+
+<img src="https://github.githubassets.com/images/modules/profile/achievements/galaxy-brain-default.png" width="85"/>
+
+</p>
+--- 
 
 # 📈 Contribution Activity
 
