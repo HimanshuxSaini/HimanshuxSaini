@@ -115,15 +115,7 @@ src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=H
 </p>
 
 
-# 🏆 GitHub Achievements
 
-<p align="center">
-
-<img
-src="https://github-profile-trophy.vercel.app/?username=HimanshuxSaini&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=2&column=4&cache_seconds=300"
-/>
-
-</p>
 
 # 🏆 GitHub Achievements
 
