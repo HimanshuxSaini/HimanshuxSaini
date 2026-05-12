@@ -128,13 +128,27 @@ src="https://github-profile-trophy.vercel.app/?username=HimanshuxSaini&theme=tok
 
 # 🏆 GitHub Achievements
 
-<p align="center" style="display:flex; justify-content:center; gap:15px;">
+<p align="center">
 
-<img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="90"/>
+<img 
+src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png" 
+width="90"
+/>
 
-<img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="90"/>
+<img 
+src="https://github.githubassets.com/images/modules/profile/achievements/galaxy-brain-default.png" 
+width="90"
+/>
 
-<img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="90"/>
+<img 
+src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" 
+width="90"
+/>
+
+<img 
+src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" 
+width="90"
+/>
 
 </p> 
 
