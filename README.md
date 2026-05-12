@@ -136,7 +136,7 @@ width="90"
 />
 
 <img 
-src="https://github.githubassets.com/images/modules/profile/achievements/galaxy-brain-default.png" 
+src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" 
 width="90"
 />
 
@@ -146,7 +146,7 @@ width="90"
 />
 
 <img 
-src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" 
+src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" 
 width="90"
 />
 
