@@ -101,7 +101,7 @@ src="https://github-readme-stats-sigma-five.vercel.app/api?username=HimanshuxSai
 
 <img 
 height="180em"
-src="https://streak-stats.demolab.com?user=HimanshuxSaini&theme=tokyonight&hide_border=true&cache_seconds=1800"
+src="https://streak-stats.demolab.com?user=HimanshuxSaini&theme=tokyonight&hide_border=true&cache_seconds=1"
 />
 
 </p>
