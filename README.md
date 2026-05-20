@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Himanshu Saini</h1>
 
 <h3 align="center">
-🚀 Full Stack Engineer • MERN Stack Developer • Open Source Contributor • Problem Solver
+🚀 Full Stack Engineer  • MERN Stack Developer • Open Source Contributor • Problem Solver
 </h3>
 
 <p align="center">
