@@ -93,26 +93,22 @@
 # 📊 GitHub Analytics
 
 <p align="center">
+  <img 
+    height="180em"
+    src="https://github-readme-stats.vercel.app/api?username=HimanshuxSaini&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"
+  />
 
-<img 
-height="180em"
-src="https://github-readme-stats-sigma-five.vercel.app/api?username=HimanshuxSaini&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"
-/>
-
-<img 
-height="180em"
-src="https://github-readme-streak-stats-eight.vercel.app/?user=HimanshuxSaini&theme=tokyonight&hide_border=true"
-/>
-
+  <img 
+    height="180em"
+    src="https://streak-stats.vercel.app/?user=HimanshuxSaini&theme=tokyonight&hide_border=true"
+  />
 </p>
 
 <p align="center">
-
-<img 
-height="180em"
-src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=HimanshuxSaini&layout=compact&theme=tokyonight&hide_border=true"
-/>
-
+  <img 
+    height="180em"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=HimanshuxSaini&layout=compact&theme=tokyonight&hide_border=true"
+  />
 </p>
 
 
