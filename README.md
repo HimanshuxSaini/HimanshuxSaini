@@ -92,7 +92,8 @@
 
 # 📊 GitHub Analytics
 
-<p align="center">
+<div align="left">
+
   <img
     height="180em"
     src="https://github-stats-extended.vercel.app/api?username=HimanshuxSaini&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true"
@@ -102,23 +103,25 @@
     height="180em"
     src="https://streak-stats.vercel.app/?user=HimanshuxSaini&theme=tokyonight&hide_border=true"
   />
-</p>
 
-<p align="center">
+  <br/>
+
   <img
     height="180em"
     src="https://github-stats-extended.vercel.app/api/top-langs/?username=HimanshuxSaini&layout=compact&theme=tokyonight&hide_border=true"
   />
-</p>
 
+</div>
 
 # 🏆 GitHub Trophy
 
-<p align="center">
+<div align="left">
+
   <img
-    src="https://github-profile-trophy.vercel.app/?username=HimanshuxSaini&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1"
+    src="https://github-profile-trophy.screw-hand.vercel.app/?username=HimanshuxSaini&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1"
   />
-</p>
+
+</div>
 
 # 🏆 GitHub Achievements
 
